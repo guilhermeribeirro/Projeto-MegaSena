@@ -6,9 +6,9 @@ namespace Projeto_MegaSena.Models.Request
 
 {
     [NumerosDiferentes(ErrorMessage = "Os números não devem ser iguais.")]
-    public class NovoProdutoViewModel 
+    public class NovoJogoViewModel 
     {
-
+        
 
         [Required(ErrorMessage = "O nome é obrigatório!")]
         [StringLength(255, MinimumLength = 1, ErrorMessage = "O nome deve ter entre 1 e 255 caracteres")]
@@ -47,7 +47,8 @@ namespace Projeto_MegaSena.Models.Request
         
         public int SextoNumero { get; set; }
 
-        public DateTime DataJogo { get; set; }
+        
+
 
 
     }

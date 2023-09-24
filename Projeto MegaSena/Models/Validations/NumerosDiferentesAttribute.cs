@@ -8,7 +8,7 @@ public class NumerosDiferentesAttribute : ValidationAttribute
 {
     protected override ValidationResult IsValid(object value, ValidationContext validationContext)
     {
-        var instance = validationContext.ObjectInstance as NovoProdutoViewModel;
+        var instance = validationContext.ObjectInstance as NovoJogoViewModel;
 
         if (instance != null)
         {

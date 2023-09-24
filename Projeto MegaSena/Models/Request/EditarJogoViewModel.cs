@@ -1,6 +1,6 @@
 ﻿namespace Projeto_MegaSena.Models.Request
 {
-    public class EditarProdutoViewModel
+    public class EditarJogoViewModel
     {
         public string Nome { get; set; }
 

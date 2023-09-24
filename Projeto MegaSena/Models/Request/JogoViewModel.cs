@@ -1,6 +1,6 @@
 ﻿namespace Projeto_MegaSena.Models.Request
 {
-    public class ProdutoViewModel
+    public class JogoViewModel
     {
         public int CodigoJogo { get; set; }
 
@@ -25,6 +25,12 @@
 
         public int SextoNumero { get; set; }
 
-        public DateTime DataJogo { get;  set; }
+        public DateTime DataJogo { get; set; }
+
+        public JogoViewModel()
+        {
+
+            DataJogo = DateTime.Now;
+        }
     }
 }

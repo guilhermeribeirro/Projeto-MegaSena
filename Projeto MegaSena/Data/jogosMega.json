@@ -106,5 +106,65 @@
     "QuintoNumero": 11,
     "SextoNumero": 12,
     "DataJogo": "2023-09-18T23:31:15.75Z"
+  },
+  {
+    "CodigoJogo": 11,
+    "Nome": "Guilherme",
+    "CPF": "12988698627",
+    "PrimeiroNumero": 9,
+    "SegundoNumero": 10,
+    "TerceiroNumero": 11,
+    "QuartoNumero": 12,
+    "QuintoNumero": 13,
+    "SextoNumero": 14,
+    "DataJogo": "0001-01-01T00:00:00"
+  },
+  {
+    "CodigoJogo": 12,
+    "Nome": "Guilherme",
+    "CPF": "12988698627",
+    "PrimeiroNumero": 7,
+    "SegundoNumero": 8,
+    "TerceiroNumero": 10,
+    "QuartoNumero": 23,
+    "QuintoNumero": 16,
+    "SextoNumero": 34,
+    "DataJogo": "2023-09-20T21:00:21.704Z"
+  },
+  {
+    "CodigoJogo": 13,
+    "Nome": "string",
+    "CPF": "12988698627",
+    "PrimeiroNumero": 5,
+    "SegundoNumero": 7,
+    "TerceiroNumero": 10,
+    "QuartoNumero": 11,
+    "QuintoNumero": 14,
+    "SextoNumero": 20,
+    "DataJogo": "0001-01-01T00:00:00"
+  },
+  {
+    "CodigoJogo": 14,
+    "Nome": "string",
+    "CPF": "12988698627",
+    "PrimeiroNumero": 5,
+    "SegundoNumero": 8,
+    "TerceiroNumero": 6,
+    "QuartoNumero": 9,
+    "QuintoNumero": 2,
+    "SextoNumero": 12,
+    "DataJogo": "0001-01-01T00:00:00"
+  },
+  {
+    "CodigoJogo": 15,
+    "Nome": "string",
+    "CPF": "12988698627",
+    "PrimeiroNumero": 1,
+    "SegundoNumero": 2,
+    "TerceiroNumero": 3,
+    "QuartoNumero": 4,
+    "QuintoNumero": 5,
+    "SextoNumero": 6,
+    "DataJogo": "2023-09-23T21:20:58.2386586-03:00"
   }
 ]
